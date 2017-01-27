@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.sepim.carrion"
-		versionCode = "101" 
-		version     = "1.0.1" >
+		id          = "es.juntadeandalucia.mapea.sepim.gilena"
+		versionCode = "120" 
+		version     = "1.2.0" >
 
-	<name>Guía Carrión de los Céspedes</name>
+	<name>Guía de Gilena</name>
 	<description>
-		Encontrarás toda la información de interés para visitar Carrión de los Céspedes.
+		En esta guía encontraras toda la información de interés para visitar Gilena.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
